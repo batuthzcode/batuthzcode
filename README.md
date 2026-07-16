@@ -1,81 +1,49 @@
-<div align="center">
+# thzcode
+thzcoding
+# Hi there, I'm Batuthz! 👋 / Merhaba, ben Batuthz! 
 
-# 👋 Merhaba, ben Batuthz
+**IT Security Graduate | Cybersecurity Enthusiast | Hardware Hacker**
 
-### IT Security Graduate · Cybersecurity Enthusiast · Hardware Hacker
+### 🇹🇷 Hakkımda (About Me - TR)
+Bilişim Teknolojileri ve Siber Güvenlik alanından mezun oldum ve dijital dünyanın güvenlik duvarlarının arkasında neler olup bittiğini keşfetmeye tutkuyla bağlıyım. Odak noktam sadece yazılımları korumak değil, aynı zamanda sistemlerin sınırlarını zorlamak. 
 
-[![GitHub](https://img.shields.io/badge/GitHub-batuthzcode-181717?style=for-the-badge&logo=github)](https://github.com/batuthzcode)
-![Profile views](https://komarev.com/ghpvc/?username=batuthzcode&style=for-the-badge&color=557C94)
-
-**[Türkçe](#-hakkımda) · [English](#-about-me) · [Tech Stack](#-tech-stack) · [Stats](#-github-stats)**
-
-</div>
-
----
-
-## 🇹🇷 Hakkımda
-
-Bilişim Teknolojileri ve Siber Güvenlik mezunuyum. Dijital dünyanın güvenlik duvarlarının arkasında neler olduğunu keşfetmeye, güvenli web uygulamaları geliştirmeye ve sistemlerin sınırlarını etik yöntemlerle test etmeye tutkuyla bağlıyım.
-
-```text
-🕸️  Web geliştirme ve uygulama güvenliği
-🛡️  Etik hacking ve sızma testleri
-🔌  Özel pentest donanımları ve gömülü sistemler
-```
-
-## 🇬🇧 About Me
-
-I am an IT Security graduate passionate about exploring what happens behind the firewalls of the digital world. I build secure web applications, test systems using ethical methodologies, and experiment with custom hardware for security research.
-
-```text
-🕸️  Web development and application security
-🛡️  Ethical hacking and penetration testing
-🔌  Custom pentest hardware and embedded systems
-```
+Neler yapıyorum?
+- 🕸️ **Web Geliştirme & Güvenliği:** Modern web siteleri geliştiriyor ve bu sitelerin güvenlik mimarilerini test ediyorum.
+- 🛡️ **Sızma Testleri (Pentesting):** Sistemlerdeki zafiyetleri tespit etmek için etik hackerlık metodolojilerini uyguluyorum.
+- 🔌 **Donanımsal Araçlar (Hardware Hacking):** Kendi sızma test cihazlarımı (pentest hardware) tasarlamak ve geliştirmek üzerine denemeler yapıyorum.
 
 ---
 
-## 🧰 Tech Stack
+### 🇬🇧 About Me (Hakkımda - EN)
+I am an IT Security graduate with a deep passion for exploring what happens behind the firewalls of the digital world. My focus isn't just on securing software, but on pushing the boundaries of how systems operate under stress.
 
-<div align="center">
+What I do:
+- 🕸️ **Web Dev & Security:** Building modern websites and testing their underlying security architectures.
+- 🛡️ **Penetration Testing:** Applying ethical hacking methodologies to identify and patch system vulnerabilities.
+- 🔌 **Custom Pentest Hardware:** Tinkering with electronics to build and program my own hardware hacking and penetration testing devices.
 
-### Security & Operating Systems
+---
+### 🛠️ Yetenekler & Kullandığım Araçlar (Skills & Tools)
 
+**Siber Güvenlik & İşletim Sistemleri:**
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white)
 
-### Development
-
+**Programlama & Web Geliştirme:**
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Hardware & Embedded Systems
-
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
-
-</div>
-
+**Donanım & Gömülü Sistemler (Hardware):**
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub İstatistiklerim
 
 <div align="center">
-
-<img height="170" alt="Batuthz's GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=batuthzcode&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="170" alt="Batuthz's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=batuthzcode&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-<div align="center">
-
-### Güvenliği yalnızca bir ürün değil, sürekli bir süreç olarak görüyorum.
-
-*I see security not as a product, but as a continuous process.*
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=batuthzcode&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=batuthzcode&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>

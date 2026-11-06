@@ -1,14 +1,12 @@
 <div align="center">
 
-# Mustafa Batuğ Kayabaş
+# Batuthzcode
 
 ### Bilişim Güvenliği Teknolojisi Mezunu
 
 **BT Destek · Sistem/Ağ · SOC · Uygulama Güvenliği · Yazılım Test**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mustafabatug-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafabatug/)
 [![GitHub](https://img.shields.io/badge/GitHub-batuthzcode-181717?style=for-the-badge&logo=github)](https://github.com/batuthzcode)
-![Ankara](https://img.shields.io/badge/Konum-Ankara-E30A17?style=for-the-badge&logo=googlemaps&logoColor=white)
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Junior%20IT%20%26%20Security-16A34A?style=for-the-badge)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=batuthzcode&color=2563EB&style=flat-square&label=Profil+Görüntülenme)
